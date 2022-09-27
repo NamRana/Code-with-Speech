@@ -1,13 +1,3 @@
-# Speech To Code <img alt="Toolkit audit status" src="client/icons/icon36x36.png/" />&nbsp;&nbsp;[<img alt="Toolkit audit status" src="https://github.com/pedrooaugusto/speech-to-code/workflows/Node.js CI/badge.svg" style="align:right"/>](https://github.com/pedrooaugusto/speech-to-code/actions)
-
-> Code using your voice
-
-### Web Demo
-
-You can try a live demo of Speech2Code here: https://pedrooaugusto.github.io/speech-to-code/webapp 
-
-You can also check this video on how to solve the FizzBuzz problem using Speech2Code: https://www.youtube.com/watch?v=I71ETEeqa5E
-
 _(for this demo the app was ported to the web, to run directly on the browser)_
 
 ### Overview
@@ -91,8 +81,6 @@ _Dont forget to edit `server/.env` with your azure speech-to-text API keys._
 ### Resources
 
 Non code-like material produced in the creation of this project:
+1. [Figma design: application screens, icons and images used in the dissertation](https://www.figma.com/file/glanqRtfVtW2Va1wybr5pkCh/TCC?node-id=18%3A2).
 
-1. [Undergratuate dissertation on this project](https://pedrooaugusto.github.io/Programming%20With%20Voice%20-%20Assistive%20Technology%20Tool%20For%20Programming%20In%20JavaScript%20Using%20Voice%20-%20Pedro%20Silva.pdf).
-2. [Figma design: application screens, icons and images used in the dissertation](https://www.figma.com/file/glanqRtfVtW2Va1wybr5pkCh/TCC?node-id=18%3A2).
-3. [Trello board used  before everything went south](https://trello.com/b/vdqj47pg/tcc).
 
